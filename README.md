@@ -1,5 +1,5 @@
-[![MasterHead](https://cdn.mwallpapers.com/photos/celebrities/hd-wallpapers/izuku-midoriya-smiling-anime-boys-picture-in-picture-boku-no-hero-academia-anime-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-dfg9j.png)
-<h1 align="center">Hi 👋, I'm Atulya</h1>
+![MasterHead](https://cdn.mwallpapers.com/photos/celebrities/hd-wallpapers/izuku-midoriya-smiling-anime-boys-picture-in-picture-boku-no-hero-academia-anime-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-dfg9j.png)
+<h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">A passionate about</h3>
 <img align="right" alt="izuku" width="400" src="https://cdn.mwallpapers.com/photos/celebrities/hd-wallpapers/izuku-midoriya-smiling-anime-boys-picture-in-picture-boku-no-hero-academia-anime-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-dfg9j.png">
 
