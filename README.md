@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.mwallpapers.com/photos/celebrities/hd-wallpapers/izuku-midoriya-smiling-anime-boys-picture-in-picture-boku-no-hero-academia-anime-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-dfg9j.png)
 <h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">A passionate about</h3>
-<img align="centre" alt="machine learning" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png">
+<img align="center" alt="machine learning" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png">
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=atulyakr&label=Profile%20views&color=0e75b6&style=flat" alt="atulyakr" /> </p>
 
