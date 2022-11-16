@@ -3,7 +3,7 @@
 <h3 align="center">A passionate about</h3>
 <img align="right" alt="machine learning" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulyakr&label=Profile%20views&color=0e75b6&style=flat" alt="atulyakr" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=atulyakr&label=Profile%20views&color=0e75b6&style=flat" alt="atulyakr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulyakr" alt="atulyakr" /></a> </p>
 
