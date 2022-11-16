@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.mwallpapers.com/photos/celebrities/hd-wallpapers/izuku-midoriya-smiling-anime-boys-picture-in-picture-boku-no-hero-academia-anime-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-dfg9j.png)
+![MasterHead](https://imageio.forbes.com/specials-images/imageserve/618a1203531adf7a3d1b3daf/0x0.jpg?format=jpg&crop=2305,1729,x95,y0,safe&width=1200)
 <h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
