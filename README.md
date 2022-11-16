@@ -1,4 +1,5 @@
 ![MasterHead](https://cdn.mwallpapers.com/photos/celebrities/hd-wallpapers/izuku-midoriya-smiling-anime-boys-picture-in-picture-boku-no-hero-academia-anime-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-dfg9j.png)
+<h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/atulya70603425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulya70603425" height="30" width="40" /></a>
@@ -7,7 +8,6 @@
 <a href="https://www.leetcode.com/https://leetcode.com/a2lya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/a2lya/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/atulyakr2003/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/atulyakr2003/practice" height="30" width="40" /></a>
 </p>
-<h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">A passionate about</h3>
 <img align="center" alt="machine learning" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png">
 
