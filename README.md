@@ -1,4 +1,4 @@
-![MasterHead](https://imageio.forbes.com/specials-images/imageserve/618a1203531adf7a3d1b3daf/0x0.jpg?format=jpg&crop=2305,1729,x95,y0,safe&width=400)
+![MasterHead](https://www.udacity.com/blog/wp-content/uploads/2022/06/ML-Trends_Blog-1-scaled.jpeg)
 <h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
