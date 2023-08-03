@@ -1,4 +1,4 @@
-![MasterHead](https://www.udacity.com/blog/wp-content/uploads/2022/06/ML-Trends_Blog-1-scaled.jpeg)
+![MasterHead](https://wallpapercave.com/wp/rzpARyn.jpg)
 <h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
