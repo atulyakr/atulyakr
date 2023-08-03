@@ -1,6 +1,6 @@
-<h1 align="center">Greetings people👋, I'm Atulya</h1>
-![MasterHead](https://wallpapercave.com/wp/rzpARyn.jpg)
 
+![MasterHead](https://wallpapercave.com/wp/rzpARyn.jpg)
+<h1 align="center">Greetings people👋, I'm Atulya</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/atulya70603425" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulya70603425" height="30" width="40" /></a>
